@@ -5,9 +5,6 @@
                 "1.16.5-recommended": "1.2.0"
         }, 
         "1.16.5": {
-                "1.2.0.0": "Ported to 1.10.2",
-                "1.2.0.3": "Rewrote networking code",
-                "1.2.1.0": "Added experimental custom crafting system",
-                "1.2.1.1": "Fixed a bug with experimental crafting system"
+                "1.2.0": "Added new stuff and fixed texture bugs"
         } 
 } 
