@@ -4,7 +4,7 @@
     "<modversion>": "<changelog for this version>", 
   },
   "promos": {
-  "MinetopiaMod FORGE 1.16, Version 1.2.0-latest": "MineTopiaMod-1.16.5-1.2.0.jar",
-    "<mcversion>-recommended": "<modversion>",
+  "<MinetopiaMod FORGE 1.16, Version 1.2.0>-latest": "<MineTopiaMod-1.16.5-1.2.0.jar>",
+  "MinetopiaMod FORGE 1.16, Version 1.2.0-recommended": "MineTopiaMod-1.16.5-1.2.0.jar",
   }
 }
