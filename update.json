@@ -1,9 +1,8 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/minetopia-extra-mod/files",
     "promos": {
-        "MinetopiaMod FORGE 1.16.5 - 1.16.4, Version 1.2.0": "MineTopiaMod-1.16.5-1.2.0.jar",
-        "MinetopiaMod FORGE 1.16.5 - 1.16.4, Version 1.1.0": "MineTopiaMod-1.16.5-1.1.0.jar",
-        "MinetopiaMod FORGE 1.16.5 - 1.16.4, Version 1.0.0": "MineTopiaMod-1.16.5-1.0.0.jar",
-        "MinetopiaModOLD": "MineTopiaMod-1.16.5-2.5.8OLD.jar"
+        "MinetopiaMod FORGE 1.16, Version 1.0.0-latest": "MineTopiaMod-1.16.5-1.0.0.jar",
+        "MinetopiaMod FORGE 1.16, Version 1.1.0-latest": "MineTopiaMod-1.16.5-1.1.0.jar",
+        "MinetopiaMod FORGE 1.16, Version 1.2.0-latest": "MineTopiaMod-1.16.5-1.2.0.jar",
     }
 }
