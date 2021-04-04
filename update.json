@@ -7,8 +7,7 @@
   },
   ...
   "promos": {
-    "<mcversion>-latest": "<modversion>",
-	"MinetopiaMod FORGE 1.16, Version 1.2.0-latest": "MineTopiaMod-1.16.5-1.2.0.jar"
+  "MinetopiaMod FORGE 1.16, Version 1.2.0-latest": "MineTopiaMod-1.16.5-1.2.0.jar",
     "<mcversion>-recommended": "<modversion>",
     // Declare the latest "stable" version of your mod for the given Minecraft version
     ...
