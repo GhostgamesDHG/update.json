@@ -1,10 +1,10 @@
 { 
         "homepage": "https://www.curseforge.com/minecraft/mc-mods/minetopia-extra-mod/files", 
         "promos": { 
-                "1.16-latest": "1.6",
-                "1.16-recommended": "1.6"
+                "1.16-latest": "1.6.5",
+                "1.16-recommended": "1.6.5"
         }, 
-        "1.16": {
-                "1.6": "Added recipes for tab 1 and fixed some things! (World download for the recipes)"
+        "1.16.5": {
+                "1.6.5": "Tweaked some things and added all the food!"
         } 
 } 
