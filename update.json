@@ -1,10 +1,10 @@
 { 
         "homepage": "https://www.curseforge.com/minecraft/mc-mods/minetopia-extra-mod/files", 
         "promos": { 
-                "1.16-latest": "1.8.7",
-                "1.16-recommended": "1.8.7"
+                "1.16-latest": "2.0 PRE-RELEASE",
+                "1.16-recommended": "2.0 PRE-RELEASE"
         }, 
-        "1.16.5": {
-                "1.8.7": "Many fixes and added some blocks/hats/eat-ables"
+        "1.16": {
+                "1.8.7": "Read the changelog for information."
         } 
 } 
