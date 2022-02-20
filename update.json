@@ -1,10 +1,10 @@
 { 
         "homepage": "https://www.curseforge.com/minecraft/mc-mods/minetopia-extra-mod/files", 
         "promos": { 
-                "1.16-latest": "2.0 PRE-RELEASE",
-                "1.16-recommended": "2.0 PRE-RELEASE"
+                "1.16-latest": "2.0 PRE-RELEASE 2",
+                "1.16-recommended": "2.0 PRE-RELEASE 2"
         }, 
         "1.16": {
-                "2.0 PRE-RELEASE": "Read the changelog for information."
+                "2.0 PRE-RELEASE 2": "Read the changelog for information."
         } 
 } 
